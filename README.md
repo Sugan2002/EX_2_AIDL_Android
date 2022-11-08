@@ -216,6 +216,19 @@ interface IAIDLColorInterface {
     int getColor();
 }
 ```
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
 ## OUTPUT:
 
 ![Screenshot_10](https://user-images.githubusercontent.com/75235455/200613589-5e3d4d2d-5e72-4464-9ad6-b312b742c3a9.png)
